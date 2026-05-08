@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "briefer-learning-energy-profile": {
-      "command": "/Users/pk/.briefer/.venv/bin/python3",
+      "command": "/Users/pk/.briefer/architect/security/mcp-server-sandbox.sh",
       "args": [
         "/Users/pk/.briefer/mcp_server.py",
         "--reviewer",
