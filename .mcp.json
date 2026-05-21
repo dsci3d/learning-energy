@@ -7,7 +7,7 @@
         "--reviewer",
         "claude"
       ],
-      "cwd": "/Users/pk/Documents/A3/_learning-energy-profile",
+      "cwd": "/Users/pk/Documents/A3/repos/learning-energy-profile",
       "env": {
         "BRIEFER_RULES": "rules.yaml",
         "BRIEFER_MCP_SERVER_NAME": "briefer-learning-energy-profile"
