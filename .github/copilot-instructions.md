@@ -1,1 +1,1 @@
-../../_briefer/architect/copilot-instructions.md
+../../briefer/architect/copilot-instructions.md

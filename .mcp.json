@@ -1,15 +1,16 @@
 {
   "mcpServers": {
     "briefer-learning-energy-profile": {
-      "command": "/Users/pk/.briefer/.venv/bin/python3",
+      "command": "/Users/pk/.briefer/architect/security/mcp-server-sandbox.sh",
       "args": [
         "/Users/pk/.briefer/mcp_server.py",
         "--reviewer",
         "claude"
       ],
-      "cwd": "/Users/pk/Documents/A3/_learning-energy-profile",
+      "cwd": "/Users/pk/Documents/A3/repos/learning-energy-profile",
       "env": {
-        "BRIEFER_RULES": "rules.yaml"
+        "BRIEFER_RULES": "rules.yaml",
+        "BRIEFER_MCP_SERVER_NAME": "briefer-learning-energy-profile"
       }
     }
   }
